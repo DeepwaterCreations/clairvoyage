@@ -1,6 +1,8 @@
 Clairvoyage
 ===========
 
+by Deepwater Creations 
+
 This was my senior capstone project at Colorado College. It generates and renders procedural terrain. Right now, it's pretty limited - I was studying abroad for half my senior year and had really tough, time-consuming coursework for half the remaining time, so I didn't get to do as much with it as I wanted. Maybe - no promises! - I'll come back to it at some point and turn it into something more respectable. Burning Dice and RaG TeA both take precedence, and it's already been a year since RaG TeA saw any progress, so I'm not holding my breath on this one. 
 But on the other hand, I've been wanting to get more into graphics programming after I've gotten to a good place with Burning Dice, so maybe I'll resurrect this when I do that. 
 
